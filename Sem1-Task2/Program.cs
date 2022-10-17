@@ -13,5 +13,3 @@ else
     Console.Write("max - ");
     Console.WriteLine(namber2);  
 }     
-
-
