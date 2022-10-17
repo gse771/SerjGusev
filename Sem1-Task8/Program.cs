@@ -4,7 +4,7 @@ int namber1 = Convert.ToInt32(Console.ReadLine());
 int begin = 1;
 if(namber1<=0)
 {
-    Console.Write("Недопустимое значенте");
+    Console.Write("Недопустимое значение");
 }
 else
 {
