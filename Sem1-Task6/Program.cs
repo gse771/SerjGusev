@@ -46,4 +46,5 @@ else
 {  
      Console.Write(namber4);
     Console.WriteLine(" - нечетное число");  
-}    
+}  
+  
